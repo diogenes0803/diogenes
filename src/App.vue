@@ -55,8 +55,6 @@ body {
   background-image: url('/static/images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  color: #fff;
-  text-align: center;
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
 }
 
@@ -69,6 +67,7 @@ body {
   color: #000000;
   -webkit-box-shadow: inset 0 0 5rem rgba(0,0,0,.5);
           box-shadow: inset 0 0 5rem rgba(0,0,0,.5);
+  text-align: center;
 }
 .site-wrapper p{
   color: #000000;
