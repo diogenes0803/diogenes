@@ -28,9 +28,9 @@ export default {
  */
 
 /* Links */
-a,
-a:focus,
-a:hover {
+.site-wrapper a,
+.site-wrapper a:focus,
+.site-wrapper a:hover {
   color: #000;
 }
 
@@ -55,8 +55,6 @@ body {
   background-image: url('/static/images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-}
-body {
   color: #fff;
   text-align: center;
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
