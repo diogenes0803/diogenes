@@ -6,7 +6,7 @@
     	<b-col md="6" sm="12"  class="my-info">
     		<p><b>Name:</b> Hojune Yoo</p>
     		<p><b>Education:</b> Brigham Young University, BS in Computer Science</p>
-        <p><b>Email: <a href="mailto:diogenes0803@gmail.com">diogenes0803@gmail.com</a>
+        <p><b>Email:</b> <a href="mailto:diogenes0803@gmail.com">diogenes0803@gmail.com</a></p>
     		<p><i>Reason and Logic are fuel that make me run.</i></p>
     	</b-col>
     </b-row>
