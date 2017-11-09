@@ -4,9 +4,10 @@
     <b-row>
     	<b-col md="6" sm="12" class="photo"><img src="/static/images/profile.jpeg" class="face"></img></b-col>
     	<b-col md="6" sm="12"  class="my-info">
-    		<p>Name: Hojune Yoo</p>
-    		<p>Education: Brigham Young University, BS in Computer Science</p>
-    		<p>Reason and Logic are fuel that make me run. For the best result, you will need to have me understand throughly before you make me to work.</p>
+    		<p><b>Name:</b> Hojune Yoo</p>
+    		<p><b>Education:</b> Brigham Young University, BS in Computer Science</p>
+        <p><b>Email: <a href="mailto:diogenes0803@gmail.com">diogenes0803@gmail.com</a>
+    		<p><i>Reason and Logic are fuel that make me run.</i></p>
     	</b-col>
     </b-row>
   </div>
