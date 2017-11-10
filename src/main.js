@@ -11,6 +11,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'vue-awesome/icons'
 
 import Icon from 'vue-awesome/components/Icon'
+import VueAnalytics from 'vue-analytics'
 
 // globally (in your main .js file)
 Vue.component('icon', Icon)
@@ -18,6 +19,10 @@ Vue.component('icon', Icon)
 Vue.config.productionTip = false
 
 Vue.use(BootstrapVue)
+
+Vue.use(VueAnalytics, {
+  id: 'UA-109505216-1'
+})
 
 /* eslint-disable no-new */
 new Vue({
