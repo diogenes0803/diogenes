@@ -21,7 +21,8 @@ Vue.config.productionTip = false
 Vue.use(BootstrapVue)
 
 Vue.use(VueAnalytics, {
-  id: 'UA-109505216-1'
+  id: 'UA-109505216-1',
+  router
 })
 
 /* eslint-disable no-new */
