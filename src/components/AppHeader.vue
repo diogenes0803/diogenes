@@ -6,7 +6,7 @@
         <router-link class="nav-link" to="/">Home</router-link>
         <router-link class="nav-link" to="/about">About</router-link>
         <router-link class="nav-link" to="/skills">Skills</router-link>
-        <a class="nav-link" target="_blank" href="https://github.com/devyhj">Github</a>
+        <a class="nav-link" target="_blank" href="https://github.com/diogenes0803">Github</a>
         <a class="nav-link" target="_blank" href="https://www.linkedin.com/in/hojuneyoo/">LinkedIn</a>
       </nav>
     </div>
