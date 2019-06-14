@@ -7,7 +7,6 @@
     		<p><b>Name:</b> Hojune Yoo</p>
     		<p><b>Education:</b> Brigham Young University, BS in Computer Science</p>
         <p><b>Email:</b> <a href="mailto:diogenes0803@gmail.com">diogenes0803@gmail.com</a></p>
-    		<p><i>It takes a wise man to discover a wise man. - Diogenes</i></p>
     	</b-col>
     </b-row>
   </div>
