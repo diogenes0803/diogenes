@@ -22,8 +22,11 @@ steps:
 
 - task: ArchiveFiles@2
   inputs:
-    rootFolderOrFile: '$(Build.BinariesDirectory)/dist'
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/dist'
     includeRootFolder: true
     archiveType: 'zip'
     archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
     replaceExistingArchive: true
+
+- upload: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+  artifact: drop
